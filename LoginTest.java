@@ -32,17 +32,6 @@ public class LoginTest {
 //		driver.close();
 		//driver.get("https://www.selenium.dev/documentation/en/getting_started_with_webdriver");
 		//driver.navigate().to("https://www.selenium.dev/documentation/en/webdriver/js_alerts_prompts_and_confirmations/");
-//		driver.get("https://app.testing-env.kloudlearn.com/");
-//		Thread.sleep(5000);
-//		driver.findElement(By.cssSelector("input#username")).sendKeys("wahid@kloudone.com");
-//		driver.findElement(By.cssSelector("input#password")).sendKeys("test@123");
-//		driver.findElement(By.xpath("/html/body/div/div[2]/div/div/div[1]/div[1]/form/div[4]/input[2]")).click();
-//		Thread.sleep(3000);
-//		driver.findElement(By.xpath("/html/body/div[1]/div/section/main/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div/div/div/div[1]/div/div[2]/div/span")).click();
-//		Thread.sleep(5000);
-//		driver.get("https://wahidkhan.testing-env.kloudlearn.com/onboarding");
-//		Thread.sleep(3000);
-		//driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/div/div[3]/button[1]")).click();
 		//Xpath->   //input[starts-with(@id,'last_name_45666546677')]//This is used for dynamic we can also used for static.
 		//Xpath->   //input[contains(@name,'user[email]')]  //This is similer to starts-with.
 		//Xpath->   //a[text()='Master Subscription Agreement'] //This is used for chhosing the text which is majority time exist in blue colour.
